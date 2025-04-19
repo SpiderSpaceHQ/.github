@@ -1,3 +1,5 @@
 <img src="https://i.ibb.co/XZmytcqQ/Your-AKShaw-GC-banner.png" alt="YourAKShaw-GC-banner" text-align="center"/>
 
-<div text-align="center"><p>YourAKShawGC</p></div>
+<h1 style="text-align: center; font-family: Arial, Helvetica, sans-serif;">
+    YourAKShawGC
+</h1>
