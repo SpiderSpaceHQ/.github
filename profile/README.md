@@ -1,6 +1,12 @@
 <img src="https://i.ibb.co/XZmytcqQ/Your-AKShaw-GC-banner.png" alt="YourAKShaw-GC-banner" text-align="center"/>
 
-<h2 align="center">🙏 प्रणाम 🙏</h2>
+<br/>
+
+<div style="text-align: center;">
+    <h1 style="border-bottom: none;">
+        🙏 प्रणाम 🙏
+    </h1>
+</div>
 
 <img src="https://i.ibb.co/mVL2H9bR/Your-AKShaw-GC-logo-banner-1-removebg-preview.png" alt="Your-AKShaw-GC-logo-banner-1-removebg-preview" text-align="center"/>
 
@@ -36,3 +42,31 @@ We welcome open-source contributions! Feel free to submit pull requests, report 
 ---
 
 🌟 Transform your gaming journey today with **YourAKShawGC**! 🎮
+
+## 📞 Contact Us
+
+Stay connected with **YourAKShawGC** through the following platforms:
+
+<p align="center">
+    <a href="https://twitter.com/YourAKShawGC" target="_blank">
+        <img src="https://i.imgur.com/7kYDxkX.png" alt="Twitter" height="40" style="margin-right: 10px;">
+    </a>
+    <a href="https://instagram.com/YourAKShawGC" target="_blank">
+        <img src="https://i.imgur.com/z6JcQfU.png" alt="Instagram" height="40" style="margin-right: 10px;">
+    </a>
+    <a href="https://facebook.com/YourAKShawGC" target="_blank">
+        <img src="https://i.imgur.com/zyzYYkP.png" alt="Facebook" height="40" style="margin-right: 10px;">
+    </a>
+    <a href="https://threads.net/YourAKShawGC" target="_blank">
+        <img src="https://i.imgur.com/D8eQw6y.png" alt="Threads" height="40" style="margin-right: 10px;">
+    </a>
+    <a href="mailto:ping@gamingconsole.com" target="_blank">
+        <img src="https://i.imgur.com/H6sYp7f.png" alt="Email" height="40" style="margin-right: 10px;">
+    </a>
+    <a href="tel:+919831284491" target="_blank">
+        <img src="https://i.imgur.com/3XVBcUl.png" alt="Phone" height="40" style="margin-right: 10px;">
+    </a>
+    <a href="https://gamingconsole.com" target="_blank">
+        <img src="https://i.imgur.com/2a6sK2K.png" alt="Website" height="40">
+    </a>
+</p>
