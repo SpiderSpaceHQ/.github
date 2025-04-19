@@ -48,25 +48,25 @@ We welcome open-source contributions! Feel free to submit pull requests, report 
 Stay connected with **YourAKShawGC** through the following platforms:
 
 <p align="center">
+  <a href="tel:+919831284491" target="_blank">
+        <img src="https://www.svgrepo.com/show/10160/phone-book.svg" alt="Phone" height="40" style="margin-right: 10px;">
+    </a>
+  <a href="mailto:ping@gamingconsole.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email" height="40" style="margin-right: 10px;">
+    </a>
     <a href="https://twitter.com/YourAKShawGC" target="_blank">
-        <img src="https://i.imgur.com/7kYDxkX.png" alt="Twitter" height="40" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png?20230728155658" alt="Twitter" height="40" style="margin-right: 10px;">
     </a>
     <a href="https://instagram.com/YourAKShawGC" target="_blank">
-        <img src="https://i.imgur.com/z6JcQfU.png" alt="Instagram" height="40" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_new.svg/640px-Instagram_new.svg.png" alt="Instagram" height="40" style="margin-right: 10px;">
     </a>
     <a href="https://facebook.com/YourAKShawGC" target="_blank">
-        <img src="https://i.imgur.com/zyzYYkP.png" alt="Facebook" height="40" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" alt="Facebook" height="40" style="margin-right: 10px;">
     </a>
     <a href="https://threads.net/YourAKShawGC" target="_blank">
-        <img src="https://i.imgur.com/D8eQw6y.png" alt="Threads" height="40" style="margin-right: 10px;">
-    </a>
-    <a href="mailto:ping@gamingconsole.com" target="_blank">
-        <img src="https://i.imgur.com/H6sYp7f.png" alt="Email" height="40" style="margin-right: 10px;">
-    </a>
-    <a href="tel:+919831284491" target="_blank">
-        <img src="https://i.imgur.com/3XVBcUl.png" alt="Phone" height="40" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/512px-Threads_%28app%29.svg.png?20230719223853" alt="Threads" height="40" style="margin-right: 10px;">
     </a>
     <a href="https://gamingconsole.com" target="_blank">
-        <img src="https://i.imgur.com/2a6sK2K.png" alt="Website" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GNOME_Web_logo_%282021-03%29.svg/640px-GNOME_Web_logo_%282021-03%29.svg.png" alt="Website" height="40">
     </a>
 </p>
