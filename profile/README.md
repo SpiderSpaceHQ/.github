@@ -1,7 +1,8 @@
 <img src="https://i.ibb.co/XZmytcqQ/Your-AKShaw-GC-banner.png" alt="YourAKShaw-GC-banner" text-align="center"/>
 
 <h2 align="center">🙏 प्रणाम 🙏</h2>
-<h3 align="center">YourAKShawGC</h3>
+
+<img src="https://i.ibb.co/mVL2H9bR/Your-AKShaw-GC-logo-banner-1-removebg-preview.png" alt="Your-AKShaw-GC-logo-banner-1-removebg-preview" text-align="center"/>
 
 # Welcome to YourAKShawGC's Official GitHub Profile! 🎮
 
