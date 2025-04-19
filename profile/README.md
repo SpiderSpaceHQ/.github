@@ -56,6 +56,14 @@ Stay connected with **YourAKShawGC** through the following platforms:
         <img src="https://www.svgrepo.com/show/10160/phone-book.svg" alt="Phone" height="40" style="margin-right: 10px;">
     </a>
   &nbsp;&nbsp;
+  <a href="https://wa.me/919831284491" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/WhatsApp_Logo_green.svg/640px-WhatsApp_Logo_green.svg.png" alt="WhatsApp" height="40" style="margin-right: 10px;">
+    </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/+919831284491" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/640px-Telegram_logo_icon.svg.png" alt="Telegram" height="40" style="margin-right: 10px;">
+    </a>
+  &nbsp;&nbsp;
   <a href="mailto:ping@gamingconsole.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email" height="40" style="margin-right: 10px;">
     </a>
