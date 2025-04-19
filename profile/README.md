@@ -3,9 +3,7 @@
 <br/>
 
 <div style="text-align: center;">
-    <p>
-        🙏 प्रणाम 🙏
-    </h1>
+    <h1 style="border-bottom: none;">🙏 प्रणाम 🙏</h1>
 </div>
 
 <img src="https://i.ibb.co/mVL2H9bR/Your-AKShaw-GC-logo-banner-1-removebg-preview.png" alt="Your-AKShaw-GC-logo-banner-1-removebg-preview" text-align="center"/>
