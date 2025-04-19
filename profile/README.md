@@ -3,7 +3,7 @@
 <br/>
 
 <div style="text-align: center;">
-    <h1 style="border-bottom: none;">
+    <p>
         🙏 प्रणाम 🙏
     </h1>
 </div>
