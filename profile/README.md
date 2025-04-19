@@ -49,6 +49,8 @@ We welcome open-source contributions! Feel free to submit pull requests, report 
 
 Stay connected with **YourAKShawGC** through the following platforms:
 
+<br/>
+
 <p align="center">
   <a href="tel:+919831284491" target="_blank">
         <img src="https://www.svgrepo.com/show/10160/phone-book.svg" alt="Phone" height="40" style="margin-right: 10px;">
