@@ -6,7 +6,9 @@
     <strong style="font-size: 4em;">🙏 प्रणाम 🙏</strong>
 </div>
 
-<img src="https://i.ibb.co/mVL2H9bR/Your-AKShaw-GC-logo-banner-1-removebg-preview.png" alt="Your-AKShaw-GC-logo-banner-1-removebg-preview" text-align="center"/>
+<p align="center">
+    <img src="https://i.ibb.co/mVL2H9bR/Your-AKShaw-GC-logo-banner-1-removebg-preview.png" alt="Your-AKShaw-GC-logo-banner-1-removebg-preview"/>
+</p>
 
 # Welcome to YourAKShawGC's Official GitHub Profile! 🎮
 
