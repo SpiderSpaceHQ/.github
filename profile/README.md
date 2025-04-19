@@ -4,9 +4,9 @@
 
 <br/>
 
-<div align="center">
-    <font size="7">🙏 प्रणाम 🙏</font>
-</div>
+<p align="center">
+    <img src="https://i.ibb.co/PvwY2mcZ/Screenshot-from-2025-04-20-01-40-34-removebg-preview.png" alt="Screenshot from 2025-04-20"/>
+</p>
 
 <p align="center">
     <img src="https://i.ibb.co/mVL2H9bR/Your-AKShaw-GC-logo-banner-1-removebg-preview.png" alt="Your-AKShaw-GC-logo-banner-1-removebg-preview"/>
