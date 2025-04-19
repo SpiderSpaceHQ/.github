@@ -1,9 +1,11 @@
-<img src="https://i.ibb.co/XZmytcqQ/Your-AKShaw-GC-banner.png" alt="YourAKShaw-GC-banner" text-align="center"/>
+<p align="center">
+    <img src="https://i.ibb.co/XZmytcqQ/Your-AKShaw-GC-banner.png" alt="YourAKShaw-GC-banner"/>
+</p>
 
 <br/>
 
 <div align="center">
-    <strong style="font-size: 4em;">🙏 प्रणाम 🙏</strong>
+    <font size="7">🙏 प्रणाम 🙏</font>
 </div>
 
 <p align="center">
