@@ -2,6 +2,10 @@
     <img src="https://i.ibb.co/ymzQX3MJ/spider-logo-red-removebg-preview.png" alt="SpiderSpace Logo" height="200"/>
 </p>
 
+<p align="center">
+    <img src="https://i.ibb.co/PvwY2mcZ/Screenshot-from-2025-04-20-01-40-34-removebg-preview.png" alt="Screenshot from 2025-04-20"/>
+</p>
+
 <br/>
 
 # Welcome to Spider Space's Official GitHub Profile! 🕷️🎮
