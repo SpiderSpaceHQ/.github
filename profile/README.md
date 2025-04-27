@@ -29,6 +29,10 @@ Whether you're reliving retro classics or conquering modern masterpieces, **Spid
 ### 🌐 Official Website
 Visit [spider.space](https://spider.space) for latest updates, downloads, and community activities!
 
+<p align="center">
+    <img src="https://i.ibb.co/vCNRS4sB/spider-space-banner-rounded-corners.png" alt="Screenshot from 2025-04-20"/>
+</p>
+
 ### 🚀 Technologies Used
 - **Frontend**: Tauri (Rust+Webview) / Electron.js + React.js / Next.js for smooth, powerful interfaces.
 - **Mobile Development**: React Native (planned for cross-platform app release).
