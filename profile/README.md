@@ -101,7 +101,7 @@ Stay connected with **Spider Space** through these channels:
 ---
 
 <p align="center">
-    <img src="https://i.ibb.co/ymzQX3MJ/spider-logo-red-removebg-preview.png" alt="SpiderSpace Logo" height="100"/>
+    <img src="https://i.ibb.co/5g4kmtbD/spider-gaming-ezgif-com-crop.gif" alt="Gaming spider GIF"/>
 </p>
 
 # 🕸️ Spider Space — Gaming without Limits.
