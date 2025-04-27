@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/ymzQX3MJ/spider-logo-red-removebg-preview.png" alt="SpiderSpace Logo" height="200"/>
+    <img src="https://i.ibb.co/hR9zXdLb/Spider-Space-HQ-removebg-preview.png" alt="SpiderSpace Logo" height="200"/>
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ Stay connected with **Spider Space** through these channels:
 ---
 
 <p align="center">
-    <img src="https://i.ibb.co/qLv16TMw/output-onlinegiftools-1.gif" alt="Gaming spider GIF"/>
+    <img src="https://i.ibb.co/DPgYXg5b/spider-gaming-ezgif-com-crop.gif" alt="Gaming spider GIF"/>
 </p>
 
 # 🕸️ Spider Space — Gaming without Limits.
